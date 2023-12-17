@@ -1,0 +1,45 @@
+Active Directory - Password Reset
+
+Active Directory - Password Reset
+
+** ALL FIELDS BELOW ARE REQUIRED WHEN COMPLETING TICKETS **
+
+User ID:
+User Name:
+Contact Number:
+Email:
+Location:
+
+
+KBA: KB0012023
+KBA checked : Yes/No 
+
+Password Reset Complete: Yes / No
+Access Restored: Yes / No
+
+Note: Any user who is registered for MFA should be advised and educated on how to utilise the SSPR process.
+
+Action Taken: 
+
+KB0012023
+
+User ID:
+User Name:
+Contact Number:
+Email:
+Location:
+
+
+KBA: KB0012023
+KBA checked : Yes
+
+Password Reset Complete: Yes
+Access Restored: Yes
+
+Note: Any user who is registered for MFA should be advised and educated on how to utilise the SSPR process.
+
+Action Taken: User called unable to login as they had forgotten their password > guided user through steps to change password > confirmed password changed > access restored > issue resolved
+
+User called unable to login as they had forgotten their password > guided user through steps to change password > confirmed password changed > access restored > issue resolved
+
+User called unable to login as they had forgotten their password > guided user through steps to change password > confirmed password changed > access restored > issue resolved
